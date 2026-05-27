@@ -7,7 +7,7 @@
   <language>en</language>
   <lastBuildDate>Wed, 27 May 2026 23:30:00 +0300</lastBuildDate>
   
-  <item>
+  <!--item>
     <title>Exploring the Hidden Alleyways of Kyoto, Japan</title>
     <link>https://example.com/travel/kyoto-hidden-alleyways</link>
     <description>Kyoto is a city frozen in time. Beyond the famous shrines lie ancient wooden machiya houses, traditional tea gardens, and cobblestone pathways filled with mystery. Discover the best off-the-beaten-path trails to experience true Japanese culture away from the crowds.</description>
@@ -32,6 +32,6 @@
     <pubDate>Wed, 27 May 2026 22:00:00 +0300</pubDate>
     <guid>https://example.com/travel/serengeti-budget-safari-tips</guid>
     <enclosure url="https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&amp;fit=crop&amp;w=800&amp;q=80" length="112450" type="image/jpeg" />
-  </item>
+  </item-->
 </channel>
 </rss>
