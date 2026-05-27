@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Wanderlust Chronicles - Travel RSS Feed</title>
+  <link>https://example.com/travel</link>
+  <description>Discover breathtaking destinations, travel tips, and hidden gems around the world.</description>
+  <language>en</language>
+  <lastBuildDate>Wed, 27 May 2026 23:30:00 +0300</lastBuildDate>
+  
+  <item>
+    <title>Exploring the Hidden Alleyways of Kyoto, Japan</title>
+    <link>https://example.com/travel/kyoto-hidden-alleyways</link>
+    <description>Kyoto is a city frozen in time. Beyond the famous shrines lie ancient wooden machiya houses, traditional tea gardens, and cobblestone pathways filled with mystery. Discover the best off-the-beaten-path trails to experience true Japanese culture away from the crowds.</description>
+    <pubDate>Wed, 27 May 2026 23:15:00 +0300</pubDate>
+    <guid>https://example.com/travel/kyoto-hidden-alleyways</guid>
+    <enclosure url="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&amp;fit=crop&amp;w=800&amp;q=80" length="125430" type="image/jpeg" />
+  </item>
+  
+  <item>
+    <title>A Complete Guide to Hiking the Amalfi Coast</title>
+    <link>https://example.com/travel/amalfi-coast-hiking-guide</link>
+    <description>The Path of the Gods offers one of the most stunning coastal panoramas in Europe. This comprehensive guide covers everything from trail conditions and difficulty levels to the best local trattorias where you can reward yourself with fresh seafood and limoncello after the hike.</description>
+    <pubDate>Wed, 27 May 2026 22:45:00 +0300</<ctrl42>300></pubDate>
+    <guid>https://example.com/travel/amalfi-coast-hiking-guide</guid>
+    <enclosure url="https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&amp;fit=crop&amp;w=800&amp;q=80" length="143210" type="image/jpeg" />
+  </item>
+  
+  <item>
+    <title>Budget-Friendly Safari Tips for Serengeti, Tanzania</title>
+    <link>https://example.com/travel/serengeti-budget-safari-tips</link>
+    <description>Think an African safari is out of your financial reach? Think again. Learn how to plan an incredible journey across the Serengeti plains during the Great Migration without breaking the bank, including recommendations for eco-lodges and public campsites.</description>
+    <pubDate>Wed, 27 May 2026 22:00:00 +0300</pubDate>
+    <guid>https://example.com/travel/serengeti-budget-safari-tips</guid>
+    <enclosure url="https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&amp;fit=crop&amp;w=800&amp;q=80" length="112450" type="image/jpeg" />
+  </item>
+</channel>
+</rss>
