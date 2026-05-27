@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
+<!--channel>
   <title>Wanderlust Chronicles - Travel RSS Feed</title>
   <link>https://example.com/travel</link>
   <description>Discover breathtaking destinations, travel tips, and hidden gems around the world.</description>
@@ -33,5 +33,5 @@
     <guid>https://example.com/travel/serengeti-budget-safari-tips</guid>
     <enclosure url="https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&amp;fit=crop&amp;w=800&amp;q=80" length="112450" type="image/jpeg" />
   </item>
-</channel>
+</channel-->
 </rss>
